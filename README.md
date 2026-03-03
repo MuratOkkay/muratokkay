@@ -37,4 +37,4 @@
 
 ## 📫 Bana Ulaşın
 - GitHub: [github.com/muratokkay](https://github.com/muratokkay)  
-- LinkedIn: [Murat Okkay - LinkedIn](https://www.linkedin.com/in/murat-okkay/)
+- LinkedIn: [linkedin.com/in/murat-okkay](https://www.linkedin.com/in/murat-okkay/) 
